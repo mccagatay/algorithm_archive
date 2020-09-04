@@ -5,7 +5,7 @@ The sum of these floors is 23.
 
   Find the sum of all multiples of 3 or 5 of a submitted number.
 */
-//kjnkjn
+
 #include <iostream>
 
 using namespace std;
