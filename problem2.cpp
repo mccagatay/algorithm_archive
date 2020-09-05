@@ -20,14 +20,14 @@ int main(){
 	
 	int evenValued=0;
 	
-	bool what=true;
+	bool control=true;
 	
 	while(number2<4000000&&number1<4000000){
 		
-		if(what){			
+		if(control){			
 			number1+=number2;
 			
-			what=false;
+			control=false;
 			
 			if(number1%2==0){
 				evenValued+=number1;
@@ -37,7 +37,7 @@ int main(){
 		else{
 			number2+=number1;
 			
-			what=true;
+			control=true;
 			
 			if(number2%2==0){
 				evenValued+=number2;
