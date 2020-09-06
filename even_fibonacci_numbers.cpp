@@ -22,7 +22,9 @@ int main(){
 	
 	bool control=true;
 	
-	while(number2<4000000&&number1<4000000){
+	int max=4000000;
+	
+	while(number2<max && number1<max){
 		
 		if(control){			
 			number1+=number2;
