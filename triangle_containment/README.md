@@ -1,4 +1,4 @@
-# Algorithm to find out if a triangle with coordinate information has its origin
+# algorithm that verifies whether the triangle whose coordinate values are entered contains the origin or not
 
 ### Problem :
 
