@@ -17,3 +17,4 @@ Using  [triangles.txt](https://projecteuler.net/project/resources/p102_triangles
 NOTE: The first two examples in the file represent the triangles in the example given above.
 
 ###  [Source](https://projecteuler.net/problem=102)
+
