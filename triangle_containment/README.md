@@ -1,4 +1,4 @@
-# Triangle containment
+# Algorithm to find out if a triangle with coordinate information has its origin
 
 ### Problem :
 
