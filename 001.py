@@ -15,4 +15,5 @@ def multiples(number):
     return total
 
 
-print(multiples(1000))
+if __name__ == '__main__':
+    print(multiples(1000))

@@ -25,4 +25,5 @@ def fibonacci(limit):
     return total_even_number
 
 
-print(fibonacci(4000000))
+if __name__ == '__main__':
+    print(fibonacci(4000000))
